@@ -72,3 +72,23 @@ This project is licensed under the GNU Affero General Public License v3.0 (AGPL-
 The AGPL is a strong copyleft license. If you modify this software and run it as a network service for others (e.g., hosting the dashboard publicly), you must make the complete source code of your modified version available to the users of that service.
 
 For the full license text, please see: http://www.gnu.org/licenses/agpl-3.0.html
+
+## Snapshots of Drishyata
+
+### Error screen when Sentinel is unavilable or not reachable
+
+<img width="3584" height="1194" alt="image" src="https://github.com/user-attachments/assets/6e024f4f-af36-486c-914f-996b58c6b6cc" />
+
+### Live Redis and Sentinel dashboards
+
+<img width="3584" height="1826" alt="image" src="https://github.com/user-attachments/assets/1184db41-93d2-4666-b9cb-212967072398" />
+
+<img width="3584" height="1980" alt="image" src="https://github.com/user-attachments/assets/c6af250c-d698-4967-9475-6191286974ef" />
+
+<img width="3584" height="1770" alt="image" src="https://github.com/user-attachments/assets/b06a459e-29e9-44c5-ba0b-13329afbaf25" />
+
+### History Redis and Sentinel dashboards
+
+<img width="3562" height="1742" alt="image" src="https://github.com/user-attachments/assets/8c94d54f-bfac-453e-b2b8-ed765e646820" />
+
+<img width="3584" height="1534" alt="image" src="https://github.com/user-attachments/assets/a53cd4a9-f80b-4812-acba-f2de243c22d0" />
