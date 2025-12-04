@@ -64,7 +64,7 @@ nohup streamlit run /opt/Drishyata/main.py --server.port 14567 --server.fileWatc
 This software is an open-source project. Contributions, bug reports, and feature suggestions are welcome!
 
 ### 🔒 Copyright and Contact
-© Drishyata 2025. All rights reserved. Primary Author: Srikant Ande (Srikant.Ande<at>gmail.com)
+© Drishyata 2025. All rights reserved. Primary Author: Srikant Ande (Srikant.Ande{at}gmail.com)
 
 ### 📜 License
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
