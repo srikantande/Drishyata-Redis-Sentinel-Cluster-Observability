@@ -67,11 +67,9 @@ This software is an open-source project. Contributions, bug reports, and feature
 © Drishyata 2025. All rights reserved. Primary Author: Srikant Ande (Srikant.Ande<at>gmail.com)
 
 ### 📜 License
-This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
 
-The AGPL is a strong copyleft license. If you modify this software and run it as a network service for others (e.g., hosting the dashboard publicly), you must make the complete source code of your modified version available to the users of that service.
-
-For the full license text, please see: http://www.gnu.org/licenses/agpl-3.0.html
+For the full license text, please see: [http://www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Snapshots of Drishyata
 
