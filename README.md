@@ -1,5 +1,7 @@
 # 🚀 Drishyata Redis Sentinel Cluster Observability Monitor
 
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/ba892748-1a40-47fb-b483-cb44d98c676c" />
+
 A **Live, Auto-Refreshing Dashboard** built with Streamlit and Redis-Py for monitoring the health, performance, and key metrics of multiple Redis clusters managed by Sentinel.
 
 This tool provides immediate visibility into the state of your Redis infrastructure.
