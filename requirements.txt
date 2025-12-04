@@ -1,0 +1,7 @@
+streamlit
+redis
+redis-py-cluster
+pandas
+python-dotenv
+Pillow
+matplotlib

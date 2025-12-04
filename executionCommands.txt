@@ -1,0 +1,11 @@
+mkdir /opt/Drishyata
+copy main.py, logo.png, config.ini, & requirements.txt
+cd /opt/Drishyata
+pip install -r requirements.txt
+nohup streamlit run /opt/Drishyata/main.py --server.port 14567 --server.fileWatcherType=none &
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:14567
+  Network URL: http://<internal_ip>:14567
+  External URL: http://<external_ip>:14567
